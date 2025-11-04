@@ -1,5 +1,5 @@
 # Association Rules Example
-
+INGABIRE CATHERINE-671041
 This project demonstrates Association Rule Mining using the `mlxtend` library in Python.
 
 ## Description
